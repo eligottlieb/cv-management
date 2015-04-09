@@ -285,7 +285,7 @@
     <xsl:apply-templates select="author"/>
     <xsl:text>.  "</xsl:text>
     <xsl:value-of select="title"/>
-    <xsl:text>."  Sc.M Thesis, </xsl:text>
+    <xsl:text>."  MSc Thesis, </xsl:text>
     <xsl:apply-templates select="date"/>
     <xsl:text>.</xsl:text>
     <xsl:if test="not($comment = '')">

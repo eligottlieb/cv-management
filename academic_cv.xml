@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+  <name>Eli Sennesh</name>
+
+  <contact>
+    <!--
+    <location>
+      <street>50 Newport St.</street>
+      <apt>2</apt>
+      <city>Arlington</city>
+      <state>MA</state>
+      <country>USA</country>
+      <zip>02476</zip>
+    </location>
+    !-->
+
+    <email>eligottlieb@gmail.com</email>
+    <phone>(617) 642-1026</phone>
+  </contact>
+
+  <section>
+    <title>Profile</title>
+    <skillset>
+      <title>Knowledge</title>
+
+      <skills>
+	<title>Programming Languages</title>
+	<skill>Type Systems</skill>
+	<skill>Operational Semantics</skill>
+	<skill>Language Design</skill>
+	<skill>Functional Languages</skill>
+	<skill>Advanced Type Systems (Dependent, Region/Effect Types)</skill>
+      </skills>
+
+      <skills>
+	<title>Compilers</title>
+	<skill>Compiler Design and Implementation</skill>
+	<skill>Intermediate Languages</skill>
+	<skill>Program Analysis</skill>
+      </skills>
+
+      <skills>
+	<title>Systems</title>
+	<skill>OS Kernels</skill>
+	<skill>Runtime Systems</skill>
+	<skill>Device Drivers</skill>
+	<skill>Low-Level Programming</skill>
+      </skills>
+
+      <skills>
+	<title>Theory</title>
+	<skill>Proofs and Logic</skill>
+	<skill>Interactive/Automated Theorem Proving</skill>
+	<skill>Formal Verification</skill>
+      </skills>
+      
+      <skills>
+        <title>Statistical Learning</title>
+        <skill>Frequentist and Correlational Statistics</skill>
+        <skill>Bayesian Statistics</skill>
+        <skill>Machine Learning</skill>
+        <skill>Computational Cognitive Science</skill>
+      </skills>
+    </skillset>
+
+    <skillset>
+      <title>Practice</title>
+      <skills>
+	<title>Programming Languages</title>
+	<skill>Scala</skill>
+	<skill>Python</skill>
+	<skill>Java</skill>
+	<skill>Coq</skill>
+	<skill>C/C++</skill>
+	<skill>C\#</skill>
+	<skill>x86 Assembly</skill>
+	<skill>Ruby</skill>
+      </skills>
+
+      <skills>
+	<title>Frameworks and Tools</title>
+	<skill>LLVM</skill>
+	<skill>SableCC</skill>
+	<skill>binutils</skill>
+	<skill>CMake</skill>
+	<skill>Eclipse</skill>
+      </skills>
+    </skillset>
+  </section>
+  
+  <section>
+    <title>Research</title>
+
+    <project>
+      <name>Unstructured Jumps and Compressed Size as Defect-Prediction Metrics</name>
+      <description>
+        Investigated correlations between original software metrics and 
+        measurements of defectiveness and development effort
+      </description>
+      <comment>Master's thesis work</comment>
+      <comment>Designed software metrics and defect measurements</comment>
+      <comment>Implemented measurement framework and attendant statistics</comment>
+    </project>
+
+    <project>
+      <name>First-Order Bounded Quantification</name>
+      <description>
+        Designed type system and type-inference algorithm for bounded 
+        quantification in the context of first-order parametric polymorphism
+      </description>
+      <comment>Formalizing both the type-system and inference algorithm in Coq</comment>
+    </project>
+
+  </section>
+
+  <section>
+    <title>Publications</title>
+
+    <publication type="submitted">
+      <title>LiveCloud: Protecting Data in the Insecure Commodity Cloud</title>
+      <author>John Whaley</author>
+      <author>Geoffrey Thomas</author>
+      <author>T.J. Purtell</author>
+      <author>Trey Deitch</author>
+      <author>Lefteris Ioannidis</author>
+      <author>Micah Rosales</author>
+      <author>Eli Sennesh</author>
+      <author>Olga Shestopalova</author>
+      <author>Lulu Zhang</author>
+      <conference>USENIX FAST 2014</conference>
+    </publication>
+
+    <publication type="submitted">
+      <title>Structured Gotos are (Slightly) Harmful</title>
+      <author>Yossi Gil</author>
+      <author>Eli Sennesh</author>
+      <conference>Mining Software Repositories 2015</conference>
+    </publication>
+    
+    <publication type="preparation">
+      <title>The Defect Density `Paradox'</title>
+      <author>Eli Sennesh</author>
+      <author>Yossi Gil</author>
+    </publication>
+    
+    <publication type="preparation">
+      <title>Practical First-Order Bounded Quantification</title>
+      <author>Eli Sennesh</author>
+    </publication>
+
+    <publication type="mastersthesis">
+      <title>Unstructured Jumps and Compressed Size as Defect-Prediction Metrics</title>
+      <author>Eli Sennesh</author>
+      <date>
+	<month>March</month>
+	<year>2015</year>
+      </date>
+    </publication>
+
+  </section>
+
+  <section>
+    <title>Education</title>
+
+    <school type="graduate">
+      <name>Technion</name>
+      <degree>Master of Science</degree>
+      <advisor>Yossi Gil</advisor>
+      <thesis status="complete">
+	<date>
+	  <month>March</month>
+	  <year>2015</year>
+	</date>
+	<title>Unstructured Jumps and Compressed Size as Defect-Prediction Metrics</title>
+	<description>
+	  Studies if and how "structured goto" statements impact defect proneness, 
+	  and which concept of size yields a superior metric 
+	  for defect prediction.
+	</description>
+	<committee>Yossi Gil</committee>
+	<committee>Eran Yahav</committee>
+      </thesis>
+      <field>Computer Science</field>
+      <concentration>Software Engineering</concentration>
+      <concentration>Programming Languages</concentration>
+      <start>
+	<date>
+	  <month>October</month>
+	  <year>2012</year>
+	</date>
+      </start>
+      <end>
+	<date>
+	  <month>March</month>
+	  <year>2015</year>
+	</date>
+      </end>
+    </school>
+
+    <school type="undergraduate">
+      <name>University of Massachusetts Amherst</name>
+      <degree>Bachelor of Science</degree>
+      <major>Computer Science</major>
+      <start>
+	<date>
+	  <year>2007</year>
+	</date>
+      </start>
+      <end>
+	<date>
+	  <year>2011</year>
+	</date>
+      </end>
+      <comment>Awarded \$20,000 in merit-based scholarships</comment>
+      <comment>Awarded Dean's List twice</comment>
+    </school>
+  </section>
+
+  <section>
+    <title>Experience</title>
+
+    <job>
+      <company>MokaFive</company>
+      <location>
+	<city>Redwood City</city>
+	<state>CA</state>
+      </location>
+      <position>Graduate Intern</position>
+      <description>
+        Worked on the LiveCloud product for encrypted synchronization of 
+        filesystems between multiple machines via commodity cloud storage.  Built 
+        tools for obtaining, filtering and folding the version histories of files 
+        or volumes for administrative purposes.
+      </description>
+    </job>
+    
+    <job>
+      <company>Adept Mobile</company>
+      <location>
+	<city>Watertown</city>
+	<state>MA</state>
+      </location>
+      <position>Software Engineer Contractor</position>
+      <description>
+        Developing back-end data architecture for brands' mobile presence using 
+        Ruby on Rails.  Primarily working on "fetch" and "feed engine" projects, 
+        designed to pull and cache (fetch) and pull, parse, and present (feed 
+        engine) data feeds in XML, transforming the data from raw XML into Ruby 
+        hashes (displayed as JSON) and into Rails web-views.
+      </description>
+      <comment>Two successive summer internships</comment>
+    </job>
+
+    <project>
+      <name>Open-Source Projects</name>
+      <description>Past and ongoing efforts on open-source projects</description>
+      <comment>Java LLVM Bindings for LLVM 3.1</comment>
+      <comment>Participated in Google Summer of Code 2010</comment>
+    </project>
+  </section>
+
+  <section>
+    <title>References</title>
+
+    <reference>
+      <name>Yossi Gil</name>
+      <description>MS Advisor</description>
+      <contact>
+	<email>yogi@cs.technion.ac.il</email>
+      </contact>
+    </reference>
+
+  </section>
+</cv>
