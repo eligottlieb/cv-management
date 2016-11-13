@@ -68,9 +68,13 @@
 % A ressection is a main section
 \newenvironment{ressection}[1]{
 \begin{tabular*}{\textwidth}[t]{lp{0.10in}|l}
-\begin{minipage}{1.1in}\fontfamily{phv}\selectfont\Large\raggedleft #1\end{minipage}&amp;&amp;\begin{minipage}{5.8in}\begin{itemize}
-}{
-\end{itemize}
+\begin{minipage}{1.1in}
+  \fontfamily{phv}\selectfont\Large\raggedleft #1
+  \end{minipage}&amp;&amp;
+\begin{minipage}{5.8in}
+  \begin{itemize}
+  }{
+  \end{itemize}
 \end{minipage}
 \end{tabular*}
 \vspace{16pt}
@@ -385,10 +389,11 @@
   </xsl:template>
 
   <xsl:template match="workshop">
-    <xsl:text>\ressubitem{Participant in </xsl:text>
+    <xsl:text>\ressubitem{</xsl:text>
+    <xsl:value-of select="title"/>
+    <xsl:text> in </xsl:text>
     <xsl:value-of select="description"/>
-    <xsl:text>}
-</xsl:text>
+    <xsl:text>}</xsl:text>
   </xsl:template>
 
   <xsl:template match="comment">
