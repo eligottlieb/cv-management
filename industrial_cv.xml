@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+  <name>Eli Sennesh</name>
+
+  <contact>
+    <location>
+      <street>270 Highland Ave</street>
+      <apt>Apartment 31</apt>
+      <city>Somerville</city>
+      <state>MA</state>
+      <country>USA</country>
+      <zip>01243</zip>
+    </location>
+
+    <email>elisennesh@gmail.com</email>
+    <phone>(617) 642-1026</phone>
+  </contact>
+
+  <section>
+    <title>Work Experience</title>
+
+    <job>
+      <company>Leaflabs</company>
+      <position>Member of Technical Staff</position>
+      <description>
+        Project-based research and development.  Developed module firmware,
+        including a boot-ROM, for Google's Project Ara, including the Greybus
+        Bootrom Protocol now deployed in Greybus devices as part of the
+        Motorola Moto-Z.  Implemented the Trusted Administration Framework, a
+        series of diskless Linux images built on NixOS for secure cryptographic
+        computations.
+
+        Outside Project Ara, wrote a GStreamer plugin that integrates
+        a deep convolutional neural network via Caffe to detect human poses in
+        video footage, deployed face detection with OpenCV as part of a small
+        robotics project, and helped develop a specialized Yocto Linux layer.
+      </description>
+      <comment>
+        Skills: embedded C, ARM Cortex M3, git, Linux kernel
+        development, nuttx, JTAG, Python, OpenCV, Caffe
+      </comment>
+      <daterange>
+        <start>
+          <date>
+            <month>April</month>
+            <year>2015</year>
+          </date>
+        </start>
+        <end>
+          <date>
+            <month>January</month>
+            <year>2017</year>
+          </date>
+        </end>
+      </daterange>
+    </job>
+
+    <job>
+      <company>MokaFive</company>
+      <position>Software Engineering Intern</position>
+      <description>
+        Worked on the LiveCloud product for encrypted synchronization of
+        filesystems between multiple machines via commodity cloud storage.
+        Built tools for obtaining, filtering and folding the version histories
+        of files or volumes for administrative purposes.
+
+        Co-authored paper submitted to USENIX FAST 2014: "LiveCloud: Protecting
+        Data in the Insecure Commodity Cloud".
+      </description>
+      <comment>
+        Skills: Java, Eclipse, C\#, Visual Studio, Maven
+      </comment>
+      <daterange>
+        <start>
+          <date>
+            <month>August</month>
+            <year>2013</year>
+          </date>
+        </start>
+        <end>
+          <date>
+            <month>October</month>
+            <year>2013</year>
+          </date>
+        </end>
+      </daterange>
+    </job>
+
+    <job>
+      <company>Adept Mobile</company>
+      <location>
+	<city>Watertown</city>
+	<state>MA</state>
+      </location>
+      <position>Software Engineer Contractor</position>
+      <description>
+        Developing back-end data architecture for brands' mobile presence using
+        Ruby on Rails.  Primarily working on "fetch" and "feed engine" projects,
+        designed to pull and cache (fetch) and pull, parse, and present (feed
+        engine) data feeds in XML, transforming the data from raw XML into Ruby
+        hashes (displayed as JSON) and into Rails web-views.
+      </description>
+      <daterange>
+        <start>
+          <date>
+            <month>May</month>
+            <year>2011</year>
+          </date>
+        </start>
+        <end>
+          <date>
+            <month>August</month>
+            <year>2011</year>
+          </date>
+        </end>
+      </daterange>
+    </job>
+  </section>
+
+  <section>
+    <title>Education</title>
+
+    <school type="graduate">
+      <name>Technion</name>
+      <degree>Master of Science</degree>
+      <advisor>Yossi Gil</advisor>
+      <thesis status="defended">
+      	<date>
+      	  <month>March</month>
+      	  <year>2015</year>
+      	</date>
+      	<title>Unstructured Jumps and Compressed Size as Defect-Prediction
+          Metrics</title>
+        <description>See: "Structured Gotos are (Slightly) Harmful"</description>
+      	<committee>Professors Yossi Gil and Eran Yahav</committee>
+      </thesis>
+      <field>Computer Science</field>
+        <concentration>Software Engineering</concentration>
+        <concentration>Programming Languages</concentration>
+      <daterange>
+        <start>
+        	<date>
+        	  <month>October</month>
+        	  <year>2012</year>
+        	</date>
+        </start>
+        <end>
+        	<date>
+        	  <month>March</month>
+        	  <year>2015</year>
+        	</date>
+        </end>
+      </daterange>
+    </school>
+
+    <school type="undergraduate">
+      <name>University of Massachusetts Amherst</name>
+      <degree>Bachelor of Science</degree>
+      <major>Computer Science</major>
+      <concentration>Programming Languages and Compilers</concentration>
+      <daterange>
+        <start>
+          <date>
+            <year>2007</year>
+          </date>
+        </start>
+        <end>
+          <date>
+            <year>2011</year>
+          </date>
+        </end>
+      </daterange>
+      <comment>Commonwealth Honors College</comment>
+      <comment>Received Commonwealth College merit scholarship</comment>
+      <comment>Awarded Dean's List twice</comment>
+    </school>
+  </section>
+
+  <section>
+    <title>References</title>
+
+    <reference>
+      <name>Andrew Meyer</name>
+      <description>LeafLabs, LLC (Founder)</description>
+      <contact>
+        <email>ajm@leaflabs.com</email>
+      </contact>
+    </reference>
+
+    <reference>
+      <name>Professor Yossi Gil</name>
+      <description>Technion (MSc Adviser)</description>
+      <contact>
+	       <email>yogi@cs.technion.ac.il</email>
+      </contact>
+    </reference>
+  </section>
+
+  <section>
+    <title>Academic publications</title>
+
+    <publication type="submitted">
+      <title>Abstract Knowledge Explains Concrete Correlations</title>
+      <author>Eli Sennesh</author>
+      <conference>Frontiers in Psychology, Cognition</conference>
+      <date>
+	       <month>October</month>
+	       <year>2016</year>
+      </date>
+      <comment>
+        Investigated the "Blessing of Abstraction" in information-theoretic
+        terms using probabilistic programming.
+      </comment>
+    </publication>
+
+    <publication type="published">
+      <title>Structured Gotos are (Slightly) Harmful</title>
+      <author>Eli Sennesh</author>
+      <author>Yossi Gil</author>
+      <conference>ACM Symposium on Applied Computing 2016</conference>
+      <date>
+	       <month>April</month>
+	        <year>2016</year>
+      </date>
+    </publication>
+
+    <publication type="mastersthesis">
+      <title>
+        Unstructured Jumps and Compressed Size as Defect-Prediction Metrics
+      </title>
+      <author>Eli Sennesh</author>
+      <date>
+	       <month>March</month>
+	        <year>2015</year>
+      </date>
+      <comment>Analyzed software metrics and defect measurements</comment>
+      <comment>Implemented measurement framework and statistics</comment>
+    </publication>
+
+    <!--<publication type="preparation">
+      <title>Practical First-Order Bounded Quantification</title>
+      <author>Eli Sennesh</author>
+    </publication>-->
+  </section>
+</cv>
