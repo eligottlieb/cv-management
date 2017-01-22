@@ -5,14 +5,14 @@
   <contact>
     <location>
       <street>270 Highland Ave</street>
-      <apt>31</apt>
+      <apt>Apartment 31</apt>
       <city>Somerville</city>
       <state>MA</state>
       <country>USA</country>
       <zip>01243</zip>
     </location>
 
-    <email>esennesh@leaflabs.com</email>
+    <email>esennesh@cs.technion.ac.il</email>
     <phone>(617) 642-1026</phone>
   </contact>
 
@@ -187,7 +187,7 @@
         Technion (MSc Committee Member, independent-study supervisor)
       </description>
       <contact>
-        <email>eyahav@cs.technion.ac.il</email>
+        <email>yahave@cs.technion.ac.il</email>
       </contact>
     </reference>
 
