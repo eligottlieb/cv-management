@@ -180,6 +180,7 @@
   <xsl:template match="school[@type='graduate']">
     <xsl:text>\begin{ressubsec}{</xsl:text>
     <xsl:value-of select="name"/>
+    <xsl:apply-templates select="daterange"/>
     <xsl:text>}{</xsl:text>
     <xsl:value-of select="degree"/>
     <xsl:text>}
@@ -239,6 +240,7 @@
   <xsl:template match="school[@type='undergraduate']">
     <xsl:text>\begin{ressubsec}{</xsl:text>
     <xsl:value-of select="name"/>
+    <xsl:apply-templates select="daterange"/>
     <xsl:text>}{</xsl:text>
     <xsl:value-of select="degree"/>
     <xsl:text>}
@@ -256,6 +258,7 @@
   <xsl:template match="job">
     <xsl:text>\begin{ressubsec}{</xsl:text>
     <xsl:value-of select="company"/>
+    <xsl:apply-templates select="daterange"/>
     <xsl:text>}{</xsl:text>
     <xsl:value-of select="position"/>
     <xsl:text>}
@@ -335,8 +338,7 @@
       <xsl:value-of select="comment"/>
       <xsl:text>)</xsl:text>
     </xsl:if>
-    <xsl:text>}
-</xsl:text>
+    <xsl:text>}</xsl:text>
   </xsl:template>
 
   <xsl:template match="publication[@type='published']">
@@ -355,8 +357,7 @@
       <xsl:value-of select="comment"/>
       <xsl:text>)</xsl:text>
     </xsl:if>
-    <xsl:text>}
-</xsl:text>
+    <xsl:text>}</xsl:text>
   </xsl:template>
 
   <xsl:template match="publication[@type='grant']">
@@ -439,6 +440,22 @@
     <xsl:value-of select="year"/>
   </xsl:template>
 
+  <xsl:template match="start">
+    <xsl:apply-templates select="date"/>
+  </xsl:template>
+
+  <xsl:template match="end">
+    <xsl:apply-templates select="date"/>
+  </xsl:template>
+
+  <xsl:template match="daterange">
+    <xsl:text> (</xsl:text>
+    <xsl:apply-templates select="start"/>
+    <xsl:text> - </xsl:text>
+    <xsl:apply-templates select="end"/>
+    <xsl:text>)</xsl:text>
+  </xsl:template>
+
   <xsl:template match="reference">
     <xsl:text>\ressubitem{</xsl:text>
     <xsl:value-of select="name"/>
@@ -446,8 +463,7 @@
     <xsl:value-of select="description"/>
     <xsl:text>, </xsl:text>
     <xsl:value-of select="contact/email"/>
-    <xsl:text>}
-</xsl:text>
+    <xsl:text>}</xsl:text>
   </xsl:template>
 
 </xsl:stylesheet>
