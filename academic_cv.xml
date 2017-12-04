@@ -4,12 +4,11 @@
 
   <contact>
     <location>
-      <street>270 Highland Ave</street>
-      <apt>Apartment 31</apt>
-      <city>Somerville</city>
+      <street>837 Fellsway</street>
+      <city>Medford</city>
       <state>MA</state>
       <country>USA</country>
-      <zip>01243</zip>
+      <zip>02155</zip>
     </location>
 
     <email>esennesh@cs.technion.ac.il</email>
@@ -23,25 +22,15 @@
       <description>ACM Symposium on Applied Computing 2017</description>
     </workshop>
     <comment>Program Committee member</comment>
+    <workshop>
+      <title>Program Committee Member</title>
+      <description>ACM Symposium on Applied Computing 2018</description>
+    </workshop>
+    <comment>Program Committee member</comment>
   </section>
 
   <section>
     <title>Publications</title>
-
-    <publication type="submitted">
-      <title>Abstract Knowledge Explains Concrete Correlations</title>
-      <author>Eli Sennesh</author>
-      <conference>Frontiers in Psychology, Cognition</conference>
-      <date>
-	       <month>October</month>
-	       <year>2016</year>
-      </date>
-      <comment>
-        Investigated the "Blessing of Abstraction" in information-theoretic
-        terms using probabilistic programming.
-      </comment>
-    </publication>
-
     <publication type="published">
       <title>Structured Gotos are (Slightly) Harmful</title>
       <author>Eli Sennesh</author>
