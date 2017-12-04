@@ -22,11 +22,6 @@
       <description>ACM Symposium on Applied Computing 2017</description>
     </workshop>
     <comment>Program Committee member</comment>
-    <workshop>
-      <title>Program Committee Member</title>
-      <description>ACM Symposium on Applied Computing 2018</description>
-    </workshop>
-    <comment>Program Committee member</comment>
   </section>
 
   <section>
@@ -114,8 +109,6 @@
       	<committee>Professors Yossi Gil and Eran Yahav</committee>
       </thesis>
       <field>Computer Science</field>
-        <concentration>Software Engineering</concentration>
-        <concentration>Programming Languages</concentration>
       <start>
       	<date>
       	  <month>October</month>
@@ -128,6 +121,7 @@
       	  <year>2015</year>
       	</date>
       </end>
+      <comment>Grade average: 88/100</comment>
     </school>
 
     <school type="undergraduate">
@@ -137,14 +131,17 @@
       <concentration>Programming Languages and Compilers</concentration>
       <start>
         <date>
+          <month>September</month>
           <year>2007</year>
         </date>
       </start>
       <end>
         <date>
+          <month>May</month>
           <year>2011</year>
         </date>
       </end>
+      <comment>GPA: 3.445/4.0</comment>
       <comment>Commonwealth Honors College</comment>
       <comment>Received Commonwealth College merit scholarship</comment>
       <comment>Awarded Dean's List twice</comment>
