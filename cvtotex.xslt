@@ -55,6 +55,9 @@
 \newcommand{\email}{</xsl:text>
     <xsl:value-of select="cv/contact/email"/>
     <xsl:text>}
+\newcommand{\website}{</xsl:text>
+    <xsl:value-of select="cv/contact/website"/>
+    <xsl:text>}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % New commands and environments
@@ -128,7 +131,8 @@
 \vspace{8pt}
 {\small\itshape \addr \hfill \phone; \email}
 \rule{\textwidth}{2pt}
-%{\small\itshape \addr \hfill \phone; \email}
+{\small\itshape \website}
+%{\small\itshape \addr \hfill \phone; \email; \website}
 \vspace{8pt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%
