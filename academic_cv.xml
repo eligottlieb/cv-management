@@ -75,6 +75,20 @@
 
   <section>
     <title>Publications</title>
+
+    <publication type="submitted">
+      <title>Cue-Pin-Select, a Secure and Usable Offline Password Scheme</title>
+      <author>Nicolas Blanchard, Ted Selker, Eli Sennesh</author>
+      <conference>ACM Asia Conference on Computer and Communications Security (ASIACCS) 2018</conference>
+      <date>
+	       <month>December</month>
+	       <year>2017</year>
+      </date>
+      <comment>
+        Abstract available upon request.
+      </comment>
+    </publication>
+
     <publication type="preparation">
       <title>Abstract Knowledge Explains Concrete Correlations</title>
       <author>Eli Sennesh</author>
