@@ -189,18 +189,18 @@
     </reference>
 
     <reference>
-      <name>Andrew Meyer</name>
-      <description>LeafLabs, LLC (Founder)</description>
+      <name>Matthew Arieta</name>
+      <description>Adept Mobile (Director of User Experience)</description>
       <contact>
-        <email>ajm@leaflabs.com</email>
+        <email>matthew.arieta@adeptmobi.com</email>
       </contact>
     </reference>
 
     <reference>
-      <name>Professor Yossi Gil</name>
-      <description>Technion (MSc Adviser)</description>
+      <name>Andrew Meyer</name>
+      <description>LeafLabs, LLC (Founder)</description>
       <contact>
-	       <email>yogi@cs.technion.ac.il</email>
+        <email>ajm@leaflabs.com</email>
       </contact>
     </reference>
   </section>
