@@ -12,13 +12,60 @@
       <zip>02155</zip>
     </location>
 
-    <email>elisennesh@gmail.com</email>
+    <email>e.sennesh@northeastern.edu</email>
     <phone>(617) 642-1026</phone>
     <website>https://github.com/esennesh</website>
   </contact>
 
   <section>
     <title>Work Experience</title>
+
+    <job>
+      <position>Visiting Scholar (Research Assistant)</position>
+      <company>Northeastern University College of Computer and Information Science</company>
+      <description>
+        Variational Bayesian methods and deep learning for affective neuroscience,
+        using probabilistic programming systems ProbTorch and Pyro.  Position will continue until
+        I begin my PhD at Northeastern in September.
+      </description>
+      <daterange>
+        <start>
+          <date>
+            <month>January</month>
+            <year>2018</year>
+          </date>
+        </start>
+        <end>
+          <date>
+            <month>September</month>
+            <year>2018</year>
+          </date>
+        </end>
+      </daterange>
+    </job>
+
+    <job>
+      <position>Consultant (Full Stack Web Development)</position>
+      <description>
+        Full-stack Ruby on Rails engineering for a web application to collect
+        experimental data on what sorts of passwords people find easier to enter,
+        with colleagues in the research world.
+      </description>
+      <daterange>
+        <start>
+          <date>
+            <month>December</month>
+            <year>2017</year>
+          </date>
+        </start>
+        <end>
+          <date>
+            <month>March</month>
+            <year>2018</year>
+          </date>
+        </end>
+      </daterange>
+    </job>
 
     <job>
       <company>Adept Mobile</company>
@@ -122,6 +169,20 @@
     <title>Education</title>
 
     <school type="graduate">
+      <name>Northeastern University</name>
+      <degree>Doctor of Philosophy</degree>
+      <advisor>Jan-Willem van de Meent, Lisa Feldman Barrett</advisor>
+      <field>Cognitive Science</field>
+      <concentration>Bayesian machine learning, affective neuroscience</concentration>
+      <start>
+        <date>
+          <month>January</month>
+          <year>2018</year>
+        </date>
+      </start>
+    </school>
+
+    <school type="graduate">
       <name>Technion</name>
       <degree>Master of Science</degree>
       <advisor>Yossi Gil</advisor>
@@ -181,18 +242,18 @@
     <title>References</title>
 
     <reference>
-      <name>Gabe Smallman</name>
-      <description>Adept Mobile (Founder)</description>
+      <name>Jan-Willem van de Meent</name>
+      <description>Northeastern University (Assistant Professor)</description>
       <contact>
-        <email>gabe.smallman@adeptmobi.com</email>
+        <email>j.vandemeent@northeastern.edu</email>
       </contact>
     </reference>
 
     <reference>
-      <name>Matthew Arieta</name>
-      <description>Adept Mobile (Director of User Experience)</description>
+      <name>Gabe Smallman</name>
+      <description>Adept Mobile (Founder)</description>
       <contact>
-        <email>matthew.arieta@adeptmobi.com</email>
+        <email>gabe.smallman@adeptmobi.com</email>
       </contact>
     </reference>
 
