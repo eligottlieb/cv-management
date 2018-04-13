@@ -12,12 +12,26 @@
       <zip>02155</zip>
     </location>
 
-    <email>esennesh@cs.technion.ac.il</email>
+    <email>e.sennesh@northeastern.edu</email>
     <phone>(617) 642-1026</phone>
   </contact>
 
   <section>
     <title>Education</title>
+
+    <school type="graduate">
+      <name>Northeastern University</name>
+      <degree>Doctor of Philosophy</degree>
+      <advisor>Jan-Willem van de Meent, Lisa Feldman Barrett</advisor>
+      <field>Cognitive Science</field>
+      <concentration>Bayesian machine learning, affective neuroscience</concentration>
+      <start>
+        <date>
+          <month>January</month>
+          <year>2018</year>
+        </date>
+      </start>
+    </school>
 
     <school type="graduate">
       <name>Technion</name>
@@ -34,6 +48,7 @@
       	<committee>Professors Yossi Gil and Eran Yahav</committee>
       </thesis>
       <field>Computer Science</field>
+      <concentration>Software engineering, programming languages</concentration>
       <start>
       	<date>
       	  <month>October</month>
@@ -76,31 +91,16 @@
   <section>
     <title>Publications</title>
 
-    <publication type="submitted">
+    <publication type="preparation">
       <title>Cue-Pin-Select, a Secure and Usable Offline Password Scheme</title>
       <author>Nicolas Blanchard, Ted Selker, Eli Sennesh</author>
-      <conference>ACM Asia Conference on Computer and Communications Security (ASIACCS) 2018</conference>
+      <journal>In preparation</journal>
       <date>
 	       <month>December</month>
 	       <year>2017</year>
       </date>
       <comment>
         Abstract available upon request.
-      </comment>
-    </publication>
-
-    <publication type="preparation">
-      <title>Abstract Knowledge Explains Concrete Correlations</title>
-      <author>Eli Sennesh</author>
-      <journal>In preparation</journal>
-      <date>
-	       <month>October</month>
-	       <year>2016</year>
-      </date>
-      <comment>
-        Investigated the "Blessing of Abstraction" in information-theoretic
-        terms using probabilistic programming.  Editors' feedback: interesting
-        hypothesis, but in need of better analytical proofs and empirical support.
       </comment>
     </publication>
 
@@ -148,18 +148,18 @@
     <title>References</title>
 
     <reference>
-      <name>Andrew Meyer</name>
-      <description>LeafLabs, LLC (Founder)</description>
+      <name>Professor Jan-Willem van de Meent</name>
+      <description>Northeastern University (PhD Advisor)</description>
       <contact>
-        <email>ajm@leaflabs.com</email>
+	       <email>j.vandemeent@northeastern.edu</email>
       </contact>
     </reference>
 
     <reference>
-      <name>Professor Yossi Gil</name>
-      <description>Technion (MSc Adviser)</description>
+      <name>Andrew Meyer</name>
+      <description>LeafLabs, LLC (Founder)</description>
       <contact>
-	       <email>yogi@cs.technion.ac.il</email>
+        <email>ajm@leaflabs.com</email>
       </contact>
     </reference>
 
