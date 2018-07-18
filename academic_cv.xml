@@ -91,17 +91,14 @@
   <section>
     <title>Publications</title>
 
-    <publication type="preparation">
-      <title>Cue-Pin-Select, a Secure and Usable Offline Password Scheme</title>
-      <author>Nicolas Blanchard, Ted Selker, Eli Sennesh</author>
-      <journal>In preparation</journal>
+    <publication type="published">
+      <title>Créer de tête de nombreux mots de passe inviolables et inoubliables</title>
+      <author>Blanchard, N.; Gabasova, L.; Selker, T.; Sennesh, E.</author>
+      <conference>ALGOTEL 2018 - 20èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications</conference>
       <date>
-	       <month>December</month>
-	       <year>2017</year>
+	       <month>April</month>
+	       <year>2018</year>
       </date>
-      <comment>
-        Abstract available upon request.
-      </comment>
     </publication>
 
     <publication type="published">
