@@ -92,6 +92,16 @@
     <title>Publications</title>
 
     <publication type="published">
+      <title>Combinators for Modeling and Inference</title>
+      <author>Sennesh, Eli; Wu, Hao; van de Meent, Jan-Willem</author>
+      <conference>First International Conference on Probabilistic Programming</conference>
+      <date>
+	       <month>October</month>
+	       <year>2018</year>
+      </date>
+    </publication>
+
+    <publication type="published">
       <title>{Cr{\'e}er de t{\^e}te de nombreux mots de passe inviolables et inoubliables}</title>
       <author>Blanchard, N.; Gabasova, L.; Selker, T.; Sennesh, E.</author>
       <conference>ALGOTEL 2018 - 20{\`e}mes Rencontres Francophones sur les Aspects Algorithmiques des T{\'e}l{\'e}communications</conference>
