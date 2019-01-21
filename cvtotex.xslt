@@ -148,7 +148,7 @@
     <xsl:value-of select="title"/>
     <xsl:text>}
 </xsl:text>
-    <xsl:apply-templates select="skillset|school|job|project|reference|workshop|publication"/>
+    <xsl:apply-templates select="skillset|school|job|project|reference|workshop|publication|journal"/>
     <xsl:text>\end{ressection}
 </xsl:text>
   </xsl:template>
@@ -394,6 +394,14 @@
   </xsl:template>
 
   <xsl:template match="workshop">
+    <xsl:text>\ressubitem{</xsl:text>
+    <xsl:value-of select="title"/>
+    <xsl:text> in </xsl:text>
+    <xsl:value-of select="description"/>
+    <xsl:text>}</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="journal">
     <xsl:text>\ressubitem{</xsl:text>
     <xsl:value-of select="title"/>
     <xsl:text> in </xsl:text>
