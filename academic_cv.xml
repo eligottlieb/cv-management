@@ -91,6 +91,16 @@
   <section>
     <title>Publications</title>
 
+    <publication type="preparation">
+      <title>Modeling Individual Differences in fMRI Data with Neural Topographic Factor Analysis</title>
+      <author>Sennesh, Eli; Khan, Zulqarnain; Dy, Jennifer; Satpute, Ajay; Hutchinson, J. Benjamin; van de Meent, Jan-Willem</author>
+      <conference>International Conference on Machine Learning (ICML) 2019</conference>
+      <date>
+        <month>January</month>
+        <year>2019</year>
+      </date>
+    </publication>
+
     <publication type="published">
       <title>Model and Inference Combinators for Deep Probabilistic Programming</title>
       <author>Sennesh, Eli; Scibior, Adam; Wu, Hao; van de Meent, Jan-Willem</author>
