@@ -94,7 +94,7 @@
     <publication type="published">
       <title>Model and Inference Combinators for Deep Probabilistic Programming</title>
       <author>Sennesh, Eli; Scibior, Adam; Wu, Hao; van de Meent, Jan-Willem</author>
-      <workshop>Languages For Inference (LAFI) 2019 @ Principles of Programming Languages (POPL) 2019</workshop>
+      <conference>Languages For Inference (LAFI) 2019 @ Principles of Programming Languages (POPL) 2019</conference>
       <date>
         <month>January</month>
         <year>2019</year>
@@ -104,7 +104,7 @@
     <publication type="published">
       <title>Composing Modeling and Inference Operations with Probabilistic Program Combinators</title>
       <author>Sennesh, Eli; Scibior, Adam; Wu, Hao; van de Meent, Jan-Willem</author>
-      <workshop>All of Bayesian Nonparametrics (Especially the Useful Bits) @ NeurIPS 2018</workshop>
+      <conference>All of Bayesian Nonparametrics (Especially the Useful Bits) @ NeurIPS 2018</conference>
       <date>
         <month>December</month>
         <year>2018</year>
@@ -164,10 +164,10 @@
 
   <section>
     <title>Service</title>
-    <workshop>
+    <conference>
       <title>Program Committee Member</title>
       <description>ACM Symposium on Applied Computing 2017</description>
-    </workshop>
+    </conference>
     <comment>Program Committee member</comment>
 
     <journal>
