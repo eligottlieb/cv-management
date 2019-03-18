@@ -38,7 +38,7 @@
       <name>Technion</name>
       <degree>Master of Science</degree>
       <advisor>Yossi Gil</advisor>
-      <thesis status="defended">
+      <!-- <thesis status="defended">
       	<date>
       	  <month>March</month>
       	  <year>2015</year>
@@ -47,7 +47,7 @@
           Metrics</title>
         <description>See: "Structured Gotos are (Slightly) Harmful"</description>
       	<committee>Professors Yossi Gil and Eran Yahav</committee>
-      </thesis>
+      </thesis> -->
       <field>Computer Science</field>
       <concentration>Software engineering, programming languages</concentration>
       <start>
