@@ -184,20 +184,6 @@
   </section>
 
   <section>
-    <title>Service</title>
-    <workshop>
-      <title>Program Committee Member</title>
-      <description>ACM Symposium on Applied Computing 2017</description>
-    </workshop>
-    <comment>Program Committee member</comment>
-
-    <journal>
-      <title>Peer reviewer</title>
-      <description>Artificial Intelligence, Editors-in-Chief: R. Dechter, P. Doherty</description>
-    </journal>
-  </section>
-
-  <section>
     <title>References</title>
 
     <reference>
@@ -225,6 +211,19 @@
         <email>yahave@cs.technion.ac.il</email>
       </contact>
     </reference>
+  </section>
 
+  <section>
+    <title>Service</title>
+    <workshop>
+      <title>Program Committee Member</title>
+      <description>ACM Symposium on Applied Computing 2017</description>
+    </workshop>
+    <comment>Program Committee member</comment>
+
+    <journal>
+      <title>Peer reviewer</title>
+      <description>Artificial Intelligence, Editors-in-Chief: R. Dechter, P. Doherty</description>
+    </journal>
   </section>
 </cv>
