@@ -190,7 +190,15 @@
       <name>Professor Jan-Willem van de Meent</name>
       <description>Northeastern University (PhD Advisor)</description>
       <contact>
-	       <email>j.vandemeent@northeastern.edu</email>
+        <email>j.vandemeent@northeastern.edu</email>
+      </contact>
+    </reference>
+
+    <reference>
+      <name>Professor Lisa Feldman Barrett</name>
+      <description>Northeastern University (PhD Advisor)</description>
+      <contact>
+        <email>l.barrett@northeastern.edu</email>
       </contact>
     </reference>
 
@@ -199,16 +207,6 @@
       <description>LeafLabs, LLC (Founder)</description>
       <contact>
         <email>ajm@leaflabs.com</email>
-      </contact>
-    </reference>
-
-    <reference>
-      <name>Professor Eran Yahav</name>
-      <description>
-        Technion (MSc Committee Member, independent-study supervisor)
-      </description>
-      <contact>
-        <email>yahave@cs.technion.ac.il</email>
       </contact>
     </reference>
   </section>
