@@ -23,14 +23,15 @@
       <name>Northeastern University</name>
       <degree>Doctor of Philosophy</degree>
       <advisor>Jan-Willem van de Meent, Lisa Feldman Barrett</advisor>
-      <field>Cognitive Science</field>
+      <field>Computer Science</field>
       <concentration>Bayesian machine learning, affective neuroscience</concentration>
       <start>
         <date>
-          <month>January</month>
+          <month>September</month>
           <year>2018</year>
         </date>
       </start>
+      <comment>GPA: 3.834/4.0</comment>
     </school>
 
     <school type="graduate">
