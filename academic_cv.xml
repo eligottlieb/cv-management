@@ -92,7 +92,17 @@
   <section>
     <title>Publications</title>
 
-    <publication type="preparation">
+    <publication type="submitted">
+      <title>Combinators for Modeling and Inference in Deep Probabilistic Programs</title>
+      <author>Sennesh, Eli; Zimmerman, Heiko; Wu, Hao; Scibior, Adam; van de Meent, Jan-Willem</author>
+      <conference>Uncertainty in Artificial Intelligence (UAI) 2019</conference>
+      <date>
+        <month>March</month>
+        <year>2019</year>
+      </date>
+    </publication>
+
+    <publication type="submitted">
       <title>Modeling Individual Differences in fMRI Data with Neural Topographic Factor Analysis</title>
       <author>Sennesh, Eli; Khan, Zulqarnain; Dy, Jennifer; Satpute, Ajay; Hutchinson, J. Benjamin; van de Meent, Jan-Willem</author>
       <conference>International Conference on Machine Learning (ICML) 2019</conference>
