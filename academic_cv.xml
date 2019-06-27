@@ -17,79 +17,6 @@
   </contact>
 
   <section>
-    <title>Education</title>
-
-    <school type="graduate">
-      <name>Northeastern University</name>
-      <degree>Doctor of Philosophy</degree>
-      <advisor>Jan-Willem van de Meent, Lisa Feldman Barrett</advisor>
-      <field>Computer Science</field>
-      <concentration>Bayesian machine learning, affective neuroscience</concentration>
-      <start>
-        <date>
-          <month>September</month>
-          <year>2018</year>
-        </date>
-      </start>
-      <comment>GPA: 3.834/4.0</comment>
-    </school>
-
-    <school type="graduate">
-      <name>Technion</name>
-      <degree>Master of Science</degree>
-      <advisor>Yossi Gil</advisor>
-      <!-- <thesis status="defended">
-      	<date>
-      	  <month>March</month>
-      	  <year>2015</year>
-      	</date>
-      	<title>Unstructured Jumps and Compressed Size as Defect-Prediction
-          Metrics</title>
-        <description>See: "Structured Gotos are (Slightly) Harmful"</description>
-      	<committee>Professors Yossi Gil and Eran Yahav</committee>
-      </thesis> -->
-      <field>Computer Science</field>
-      <concentration>Software engineering, programming languages</concentration>
-      <start>
-      	<date>
-      	  <month>October</month>
-      	  <year>2012</year>
-      	</date>
-      </start>
-      <end>
-      	<date>
-      	  <month>March</month>
-      	  <year>2015</year>
-      	</date>
-      </end>
-      <comment>Grade average: 88/100</comment>
-    </school>
-
-    <school type="undergraduate">
-      <name>University of Massachusetts Amherst</name>
-      <degree>Bachelor of Science</degree>
-      <major>Computer Science</major>
-      <concentration>Programming Languages and Compilers</concentration>
-      <start>
-        <date>
-          <month>September</month>
-          <year>2007</year>
-        </date>
-      </start>
-      <end>
-        <date>
-          <month>May</month>
-          <year>2011</year>
-        </date>
-      </end>
-      <comment>GPA: 3.445/4.0</comment>
-      <comment>Commonwealth Honors College</comment>
-      <comment>Received Commonwealth College merit scholarship</comment>
-      <comment>Awarded Dean's List twice</comment>
-    </school>
-  </section>
-
-  <section>
     <title>Publications</title>
 
     <publication type="preparation">
@@ -181,6 +108,79 @@
       <author>Eli Sennesh</author>
     </publication>-->
 
+  </section>
+
+  <section>
+    <title>Education</title>
+
+    <school type="graduate">
+      <name>Northeastern University</name>
+      <degree>Doctor of Philosophy</degree>
+      <advisor>Jan-Willem van de Meent, Lisa Feldman Barrett</advisor>
+      <field>Computer Science</field>
+      <concentration>Bayesian machine learning, affective neuroscience</concentration>
+      <start>
+        <date>
+          <month>September</month>
+          <year>2018</year>
+        </date>
+      </start>
+      <comment>GPA: 3.834/4.0</comment>
+    </school>
+
+    <school type="graduate">
+      <name>Technion</name>
+      <degree>Master of Science</degree>
+      <advisor>Yossi Gil</advisor>
+      <!-- <thesis status="defended">
+      	<date>
+      	  <month>March</month>
+      	  <year>2015</year>
+      	</date>
+      	<title>Unstructured Jumps and Compressed Size as Defect-Prediction
+          Metrics</title>
+        <description>See: "Structured Gotos are (Slightly) Harmful"</description>
+      	<committee>Professors Yossi Gil and Eran Yahav</committee>
+      </thesis> -->
+      <field>Computer Science</field>
+      <concentration>Software engineering, programming languages</concentration>
+      <start>
+      	<date>
+      	  <month>October</month>
+      	  <year>2012</year>
+      	</date>
+      </start>
+      <end>
+      	<date>
+      	  <month>March</month>
+      	  <year>2015</year>
+      	</date>
+      </end>
+      <comment>Grade average: 88/100</comment>
+    </school>
+
+    <school type="undergraduate">
+      <name>University of Massachusetts Amherst</name>
+      <degree>Bachelor of Science</degree>
+      <major>Computer Science</major>
+      <concentration>Programming Languages and Compilers</concentration>
+      <start>
+        <date>
+          <month>September</month>
+          <year>2007</year>
+        </date>
+      </start>
+      <end>
+        <date>
+          <month>May</month>
+          <year>2011</year>
+        </date>
+      </end>
+      <comment>GPA: 3.445/4.0</comment>
+      <comment>Commonwealth Honors College</comment>
+      <comment>Received Commonwealth College merit scholarship</comment>
+      <comment>Awarded Dean's List twice</comment>
+    </school>
   </section>
 
   <section>
