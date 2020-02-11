@@ -20,11 +20,11 @@
     <title>Publications</title>
 
     <publication type="preparation">
-      <title>Constructing an Ad-Hoc Conceptual System</title>
+      <title>All concepts are all-modal generative models</title>
       <author>Sennesh, Eli; van de Meent, Jan-Willem; Quigley, Karen; Feldman Barrett, Lisa</author>
       <date>
-        <month>October</month>
-        <year>2019</year>
+        <month>February</month>
+        <year>2020</year>
       </date>
     </publication>
 
@@ -32,7 +32,7 @@
       <title>Combinators for Modeling and Inference in Deep Probabilistic Programs</title>
       <author>Sennesh, Eli; Zimmerman, Heiko; Wu, Hao; Scibior, Adam; van de Meent, Jan-Willem</author>
       <date>
-        <month>March</month>
+        <month>December</month>
         <year>2019</year>
       </date>
     </publication>
@@ -40,10 +40,10 @@
     <publication type="submitted">
       <title>Modeling Individual Differences in fMRI Data with Neural Topographic Factor Analysis</title>
       <author>Sennesh, Eli; Khan, Zulqarnain; Dy, Jennifer; Satpute, Ajay; Hutchinson, J. Benjamin; van de Meent, Jan-Willem</author>
-      <conference>Artificial Intelligence and Statistics (AISTATS) 2020</conference>
+      <conference>International Conference on Machine Learning (ICML) 2020</conference>
       <date>
-        <month>October</month>
-        <year>2019</year>
+        <month>February</month>
+        <year>2020</year>
       </date>
       <comment>https://arxiv.org/abs/1906.08901</comment>
     </publication>
@@ -51,10 +51,10 @@
     <publication type="submitted">
       <title>Amortized Gibbs Samplers with Neural Sufficient Statistics</title>
       <author>Wu, Hao; Zimmerman, Heiko; Sennesh, Eli; Le, Tuan Anh; van de Meent, Jan-Willem</author>
-      <conference>Artificial Intelligence and Statistics (AISTATS) 2020</conference>
+      <conference>International Conference on Machine Learning (ICML) 2020</conference>
       <date>
-        <month>October</month>
-        <year>2019</year>
+        <month>February</month>
+        <year>2020</year>
       </date>
     </publication>
 
