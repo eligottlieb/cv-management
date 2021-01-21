@@ -210,10 +210,18 @@
   <section>
     <title>Service</title>
     <workshop>
+      <title>Reviewer</title>
+      <description>Neural Information Processing Systems (NeurIPS) 2020</description>
+    </workshop>
+    <workshop>
+      <title>Reviewer</title>
+      <description>International Conference on Machine Learning (ICML) 2020</description>
+    </workshop>
+
+    <workshop>
       <title>Program Committee Member</title>
       <description>ACM Symposium on Applied Computing 2017</description>
     </workshop>
-    <comment>Program Committee member</comment>
 
     <journal>
       <title>Peer reviewer</title>
